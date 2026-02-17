@@ -2,134 +2,120 @@
 
 <div align="center">
 
-**Robótica Autônoma • Inteligência Artificial • RoboCup Rescue Maze**
+![Robotics](https://img.shields.io/badge/Autonomous-Robotics-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-red?style=for-the-badge)
+![RoboCup](https://img.shields.io/badge/RoboCup-Rescue_Maze-green?style=for-the-badge)
 
-🇧🇷 Equipe brasileira participante da RoboCup representando o Brasil.
+**Autonomous Robotics • Artificial Intelligence • RoboCup Rescue Maze**
+
+🇧🇷 *A Brazilian team representing the nation in the RoboCup World Finals.*
 
 </div>
 
 ---
 
-## 🏆 Sobre a Competição
+## 🏆 About the Competition
 
-A **RoboCup Rescue Maze** é uma das categorias mais avançadas da RoboCup Junior, onde robôs totalmente autônomos devem operar em cenários simulando desastres reais.
+The **RoboCup Rescue Maze** is one of the most advanced categories in RoboCup Junior. Fully autonomous robots must operate in complex scenarios that simulate real-world disaster zones.
 
-Os robôs precisam ser capazes de:
+Robots are required to:
+* **Explore** unknown labyrinths.
+* **Identify** victims using specialized sensors and computer vision.
+* **Map** the environment in real-time.
+* **Navigate** uneven terrain and avoid obstacles.
+* **Execute** decisions without any human intervention.
 
-- Explorar labirintos desconhecidos
-- Identificar vítimas usando sensores e visão computacional
-- Mapear o ambiente em tempo real
-- Navegar terrenos irregulares e obstáculos
-- Tomar decisões sem intervenção humana
-
-Essa competição exige integração completa entre:
-
-- Mecânica
-- Eletrônica embarcada
-- Inteligência artificial
-- Algoritmos avançados de navegação
+This challenge demands seamless integration between **Mechanics**, **Embedded Electronics**, **Artificial Intelligence**, and **Advanced Navigation Algorithms**.
 
 ---
 
-## 🚀 Sobre o Projeto
+## 🚀 About the Project
 
-Este repositório documenta o robô desenvolvido pela **equipe ByteVolta** para a categoria **Rescue Maze**.
+This repository serves as the official documentation for the robot developed by **Team ByteVolta** for the **Rescue Maze** category.
 
-⚠️ **Este é um projeto fechado e proprietário da equipe ByteVolta.**  
-O código-fonte, CAD, modelos de IA e estratégias não são públicos.
+> [!WARNING]
+> **This is a closed-source and proprietary project of Team ByteVolta.**
+> Source code, CAD files, AI models, and competition strategies are not public.
 
-O objetivo deste repositório é apenas:
-
-- Apresentar o projeto institucionalmente  
-- Documentar a participação em competições  
-- Registrar avanços técnicos da equipe  
-
----
-
-## 🌍 Representação Internacional
-
-A equipe ByteVolta irá representar o **Brasil na RoboCup**, etapa internacional sediada na:
-
-🇰🇷 **Coreia do Sul**
-
-Este projeto faz parte da preparação técnica para essa competição internacional.
+The purpose of this repository is strictly to:
+1.  **Present** the project at an institutional level.
+2.  **Document** our participation in official competitions.
+3.  **Record** the team's technical milestones and progress.
 
 ---
 
-## ⚙️ Principais Tecnologias Utilizadas
+## 🌍 International Representation
 
-### 🤖 Hardware
+Team ByteVolta will represent **Brazil at the RoboCup World Finals**, an international stage hosted in:
 
-- Microcontroladores de alta performance  
-- Sensores LIDAR ToF múltiplos  
-- IMU para orientação espacial  
-- Sistemas de visão embarcada  
-- Atuadores para resgate de vítimas  
+🇰🇷 **South Korea**
+
+This project is a core part of the technical preparation for this global competition.
 
 ---
 
-### 🧠 Software
+## ⚙️ Technical Specifications
 
-- Algoritmos de exploração (DFS / BFS / A*)  
-- Mapeamento autônomo em grid  
-- Fusão sensorial  
-- Controle PID avançado  
-- Inteligência artificial embarcada  
+### 🤖 Hardware Stack
+* **Processing:** High-performance microcontrollers.
+* **Sensing:** Multiple LiDAR ToF (Time-of-Flight) sensors.
+* **Localization:** High-precision IMU for spatial orientation.
+* **Vision:** Integrated embedded vision systems.
+* **Actuators:** Specialized rescue systems for victim assistance.
 
----
+### 🧠 Software Suite
+* **Exploration:** Advanced algorithms (DFS / BFS / A*).
+* **Mapping:** Autonomous real-time grid mapping.
+* **Logic:** Multi-sensor fusion and advanced PID control.
+* **AI:** Edge-deployed Artificial Intelligence for decision-making.
 
-### 👁️ Visão Computacional & IA
-
-- Redes neurais para detecção de vítimas  
-- Processamento de imagem em tempo real  
-- Modelos otimizados para hardware embarcado  
-
----
-
-## 🏫 Sobre a Equipe ByteVolta
-
-A **ByteVolta Robotics Team** é uma equipe brasileira dedicada ao desenvolvimento de:
-
-- Robótica autônoma educacional  
-- Inteligência artificial aplicada  
-- Sistemas embarcados avançados  
-- Projetos STEM competitivos  
-
-Nosso objetivo é:
-
-- Representar o Brasil em competições internacionais  
-- Desenvolver tecnologia educacional  
-- Formar novos talentos em engenharia e tecnologia  
+### 👁️ Computer Vision & AI
+* **Detection:** Neural networks specialized in victim identification.
+* **Processing:** Real-time image processing pipelines.
+* **Optimization:** Light-weight models optimized for embedded hardware.
 
 ---
 
-## 🔒 Política de Acesso
+## 🏫 About Team ByteVolta
 
-Este projeto é **privado e proprietário** da equipe ByteVolta.
+**ByteVolta Robotics Team** is a Brazilian organization dedicated to the development of:
+* Educational autonomous robotics.
+* Applied Artificial Intelligence.
+* Advanced embedded systems.
+* Competitive STEM projects.
 
-Não estão disponíveis:
-
-- Código-fonte  
-- Modelos de IA  
-- Arquivos CAD  
-- Estratégias de competição  
-
-Para informações institucionais ou parcerias, entre em contato com a equipe.
-
----
-
-## 📸 Divulgação e Mídia
-
-Conteúdos públicos sobre a equipe podem incluir:
-
-- Fotos de competições  
-- Vídeos demonstrativos  
-- Apresentações institucionais  
+**Our Goals:**
+* Represent Brazil with excellence in international competitions.
+* Innovate in the field of educational technology.
+* Mentor new talent in Engineering and Technology.
 
 ---
 
-## 📄 Licença
+## 🔒 Access Policy
 
-© ByteVolta Robotics Team — Todos os direitos reservados.
+This project is **Private and Proprietary** to Team ByteVolta.
 
-Este repositório tem caráter exclusivamente institucional.
+The following assets are **strictly confidential**:
+* Full Source Code
+* Trained AI Models
+* Engineering CAD Files
+* Competitive Strategies
+
+For institutional inquiries or partnerships, please contact the team directly.
+
+---
+
+## 📸 Media & Outreach
+
+Public content regarding the team may include:
+* Competition photography.
+* Demonstration videos.
+* Institutional presentations.
+
+---
+
+## 📄 License
+
+**© ByteVolta Robotics Team — All Rights Reserved.**
+
+*This repository is for institutional and portfolio purposes only.*
